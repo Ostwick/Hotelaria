@@ -1,0 +1,14 @@
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.exe
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.deps.json
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\refint\SistemaHospedagem.dll
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\dador\OneDrive\Área de Trabalho\Hotelaria\SistemaHospedagem\obj\Debug\net8.0\ref\SistemaHospedagem.dll
