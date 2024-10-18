@@ -22,3 +22,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 
 - [.NET SDK](https://dotnet.microsoft.com/download) (versão 6.0 ou superior)
 - Um editor de texto ou IDE como [Visual Studio Code](https://code.visualstudio.com/)
+
+Desenvolvido por Ostwick.
+
+Este projeto está licenciado sob a MIT License.
